@@ -20,6 +20,8 @@ Part 1 :  [Exploratory and UX research analysis to understand the deciding facto
 [Part 4: Iterative design to optimize the product.](https://snehamehrin22.medium.com/using-iterative-design-to-optimize-the-user-flow-of-a-product-a-case-study-with-flying-taxi-32604f7512f9?source=your_stories_page-------------------------------------)
 
 **Motivation**
+
+
 The intersection of **Product Management** and **Data Analytics** is one of my key research areas now.  I think key to building products that people love is to  incorporate  **user research**,  **behavioral science**, and  **data analytics** into  **product management** .
 
 **Blog**
